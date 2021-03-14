@@ -1,0 +1,45 @@
+{
+    "works": [
+        {
+            "title": "Down and Out in Paris and London",
+            "author": "George Orwell",
+            "date": "1933",
+            "prices": [
+                {
+                    "item": "two 'large teas' and four slices of bread and dripping",
+                    "category": "food",
+                    "price": [0, 0, 8],
+                    "location": "Ilford"
+                },
+                {
+                    "item": "large tea and two slices of bread and marge",
+                    "category": "food",
+                    "estimate": "single meal",
+                    "price": [0, 0, 3.5],
+                    "location": "Tower Hill"
+                }
+            ]
+        },
+        {
+            "title": "The Secret Diary of Adrian Mole aged 13 3/4",
+            "author": "Sue Townsend",
+            "date": "1982",
+            "location": "Leicester",
+            "prices": [
+                {
+                    "item": "a carton of chips and a sachet of soy sauce",
+                    "category": "food",
+                    "estimate": "single meal",
+                    "price": 0.32,
+                    "date": "1981-02-07"
+                },
+                {
+                    "item": "The Morning Star",
+                    "category": "everyday",
+                    "price": 0.10,
+                    "date": "1981-01-26"
+                }
+            ]
+        }
+    ]
+} 

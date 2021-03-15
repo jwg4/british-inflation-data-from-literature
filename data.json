@@ -38,7 +38,45 @@
                     "category": "everyday",
                     "price": 0.10,
                     "date": "1981-01-26"
+                },
+                {
+                    "item": "Mars bar",
+                    "category": "food",
+                    "price": 0.15,
+                    "date": "1981-02-17"
+                },
+                {
+                    "item": "school dinner",
+                    "category": "food",
+                    "price": 0.60,
+                    "date": "1981-02-17"
+                },
+                {
+                    "item": "six mornings' paper round",
+                    "category": "labour",
+                    "price": 2.06,
+                    "date": "1981-03-01"
+                },
+                {
+                    "item": "fine for smoking downstairs on a bus",
+                    "category": "fine",
+                    "price": 50.0,
+                    "date": "1981-02-03"
+                },
+                {
+                    "item": "house in cul-de-sac",
+                    "category": "real estate",
+                    "estimate": "family home",
+                    "price": 30000.0,
+                    "date": "1981-03-19"
+                },
+                {
+                    "item": "child return train fare from Leicester to Sheffield",
+                    "category": "public transport",
+                    "price": 11.80,
+                    "date": "1981-04-14"
                 }
+    
             ]
         }
     ]
